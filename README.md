@@ -237,7 +237,7 @@ https://github.com/abhishekkrsri
 
 **LinkedIn**
 
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/abhishek-kumar-srivastava-350204330
 
 ---
 
