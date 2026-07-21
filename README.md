@@ -79,9 +79,9 @@ market-analysis-dashboard/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abhishekkrsri/market-analysis-dashboard.git
+git clone https://github.com/abhishekkrsri/Market-Analysis-Dashboard.git
 
-cd market-analysis-dashboard
+cd Market-Analysis-Dashboard
 ```
 
 ## 2. Install Dependencies
