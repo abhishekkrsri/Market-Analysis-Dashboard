@@ -161,35 +161,27 @@ These metrics help traders better understand historical market behavior and pric
 
 # 📷 Dashboard Screenshots
 
-## Home Dashboard
+## 🏠 Home Dashboard
 
-_Add Screenshot Here_
-
----
-
-## Market Insights
-
-_Add Screenshot Here_
+![Home Dashboard](screenshots/dashboard.png)
 
 ---
 
-## Candlestick Chart
+## 📊 Market Insights
 
-_Add Screenshot Here_
-
----
-
-## Return Distribution
-
-_Add Screenshot Here_
+![Market Insights](screenshots/market_insights.png)
 
 ---
 
-## MFE vs MAE Scatter Plot
+## 📈 Candle Statistics
 
-_Add Screenshot Here_
+![Candle Statistics](screenshots/candle_statistics.png)
 
 ---
+
+## 📉 MFE vs MAE Scatter Plot
+
+![MFE vs MAE Scatter Plot](screenshots/Mfe_Mae.png)
 
 # 📈 Assignment Coverage
 
